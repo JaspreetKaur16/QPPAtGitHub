@@ -2,7 +2,8 @@ ReviewServiceImpl impements Review Service{
 	
 	getAllComments(){
 	
-	mu code.....
+	//Just fixed bug 1
+	my code.....
 	}
 
 }
